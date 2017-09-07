@@ -1,0 +1,9 @@
+C:\Data\VS2017\OwServerReader\OwServerReader\bin\Debug\OwServerReader.exe.config
+C:\Data\VS2017\OwServerReader\OwServerReader\bin\Debug\OwServerReader.exe
+C:\Data\VS2017\OwServerReader\OwServerReader\bin\Debug\OwServerReader.pdb
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.csprojResolveAssemblyReference.cache
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.Form1.resources
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.Properties.Resources.resources
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.csproj.GenerateResource.Cache
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.exe
+C:\Data\VS2017\OwServerReader\OwServerReader\obj\Debug\OwServerReader.pdb
